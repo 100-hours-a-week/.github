@@ -1,14 +1,30 @@
-## Hi there 👋
+## 🚀 Mission  
+"아마추어 개발자가 프로로 데뷔하는 가장 빠른 길, 집중과 성장의 여정"
 
-<!--
+우리 오가니제이션은 개발에 열정을 가진 아마추어들이 프로 개발자로 데뷔할 수 있도록 돕는 것을 목표로 합니다.  
+짧은 시간 동안 최대의 성과를 내기 위해 **주 100시간** 코딩을 지향하며, 체계적이고 지속 가능한 성장 환경을 제공합니다.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🌟 철학  
+### **1. 집중의 힘**  
+긴 시간 동안 어영부영 하는 것보다, **짧고 강렬하게 집중**하는 방식이 더 빠른 성장을 이끕니다.  
+주 100시간의 집중 학습은 단순한 시간이 아닌, 자기 한계를 극복하고 새로운 가능성을 발견하는 과정입니다.
 
-반갑습니다!
+### **2. 꾸준함과 도전**  
+우리의 목표는 한 주의 100시간 동안 지속적으로 배우고, 시행착오를 겪으며, 더 나은 개발자로 성장하는 것입니다.  
+우리는 **꾸준함이 혁신을 만든다**는 신념으로 매주 더 높은 목표를 향해 나아갑니다.
+
+---
+
+## 🛠️ 활동 방식  
+### 1. **100시간 코딩 챌린지**  
+- 매주 100시간 코딩 목표를 세우고 달성합니다.  
+- 시간만 채우는 것이 아닌, 구체적인 성과와 피드백을 통해 학습합니다.  
+
+### 2. **프로젝트 중심 학습**  
+- 개인 및 팀 프로젝트를 진행하며 실무 경험을 쌓습니다.  
+- 결과물 중심의 학습을 통해 실력을 객관적으로 검증합니다.  
+
+### 3. **커뮤니티와 피드백**  
+- 동료들과 협력하며 상호 피드백을 주고받습니다.
